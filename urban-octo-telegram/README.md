@@ -19,7 +19,7 @@ Enter Github > Hit Green "Code" Button > Inside the clone drop down box select m
 
 #usage
 ```md
-![group](assets/images/digital-marketing-meeting.jpg)
+![group](/urban-octo-telegram/Develop/assets/images/digital-marketing-meeting.jpg)
 ```
 #credits
 Me, Myself and I had worked on this together and accomplished the challenge. By sheer will, blood, tears and sweat. We've defeated the challenge.
