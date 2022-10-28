@@ -2,10 +2,13 @@
 
 ## First Challenge of the Bootcamp
 
-The motivation was the gratifaction of completing the task.
-Didn't exactly build this myself but had "Refactored" some of the codes myself.
-The problem I solved by refactoring was fixing the nav and added the sematic tags and "decluttered" without destroying the entire code. 
-Problem solving
+-The motivation was the gratifaction of completing the task.
+
+-Didn't exactly build this myself but had "Refactored" some of the codes myself.
+
+-The problem I solved by refactoring was fixing the nav and added the sematic tags and "decluttered" without destroying the entire code. 
+
+-Problem solving
 
 ## Contents
 
